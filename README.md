@@ -9,3 +9,6 @@ This is a database for waste collection at University of Washington that can be 
 - Track locations to be collected from
 - Track schedule of collectors
 - Track incidents during collections
+
+## ERD
+![]("./erd.png")
